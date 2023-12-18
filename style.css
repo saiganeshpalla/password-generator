@@ -28,8 +28,10 @@ body {
   button {
     padding: 10px;
     font-size: 16px;
-    background-color: black;
+    background-color: blue;
     color: yellow;
+    align-items: center;
+
 
   }
   
