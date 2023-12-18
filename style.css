@@ -9,10 +9,13 @@ body {
   
   .container {
     text-align: center;
+    color: black;
+    
   }
   
   .password-container {
     margin-top: 20px;
+
   }
   
   #password {
@@ -25,5 +28,8 @@ body {
   button {
     padding: 10px;
     font-size: 16px;
+    background-color: black;
+    color: yellow;
+
   }
   
